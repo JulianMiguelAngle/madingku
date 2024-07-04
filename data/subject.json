@@ -1,0 +1,44 @@
+[
+    {
+      "id": "CMP101",
+      "name": "Introduction to Programming",
+      "sks": 3,
+      "totalGroup": 4
+    },
+    {
+      "id": "MAT102",
+      "name": "Calculus I",
+      "sks": 4,
+      "totalGroup": "no group"
+    },
+    {
+      "id": "BIO103",
+      "name": "General Biology",
+      "sks": 3,
+      "totalGroup": "no group"
+    },
+    {
+      "id": "ECO104",
+      "name": "Introduction to Economics",
+      "sks": 3,
+      "totalGroup": 4
+    },
+    {
+      "id": "HIS105",
+      "name": "World History",
+      "sks": 3,
+      "totalGroup": 5
+    },
+    {
+      "id": "PSY106",
+      "name": "Introduction to Psychology",
+      "sks": 3,
+      "totalGroup": 4
+    },
+    {
+      "id": "BAH107",
+      "name": "Indonesian Language",
+      "sks": 3,
+      "totalGroup": 5
+    }
+]  

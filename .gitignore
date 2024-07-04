@@ -36,9 +36,9 @@ yarn-error.log*
 next-env.d.ts
 
 # dummy data
-/data/class-citizen.json
-/data/group.json
-/data/groupNew.json
-/data/subject.json
-/data/subjectNew.json
-/data/task.json
+# /data/class-citizen.json
+# /data/group.json
+# /data/groupNew.json
+# /data/subject.json
+# /data/subjectNew.json
+# /data/task.json

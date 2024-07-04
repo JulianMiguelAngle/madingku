@@ -1,0 +1,32 @@
+[
+    {
+      "id": "MATKUL-001",
+      "sks": 3,
+      "name": "Pemrograman I",
+      "totalGroups": 4
+    },
+    {
+      "id": "MATKUL-002",
+      "sks": 2,
+      "name": "Kalkulus",
+      "totalGroups": 3
+    },
+    {
+      "id": "MATKUL-003",
+      "sks": 4,
+      "name": "Fisika Dasar",
+      "totalGroups": 5
+    },
+    {
+      "id": "MATKUL-004",
+      "sks": 3,
+      "name": "Bahasa Indonesia",
+      "totalGroups": 2
+    },
+    {
+      "id": "MATKUL-005",
+      "sks": 3,
+      "name": "Kewirausahaan",
+      "totalGroups": 6
+    }
+]  

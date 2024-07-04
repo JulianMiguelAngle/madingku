@@ -1,0 +1,59 @@
+[
+    {
+      "id": "STUDIKASUS-001",
+      "title": "Membangun Aplikasi Web Sederhana dengan HTML, CSS, dan JavaScript",
+      "subject": "Pemrograman I",
+      "name": "Kelompok 1",
+      "totalMember": 3,
+      "member": [
+        {
+          "nim": "132019006",
+          "name": "Dương Ánh Tuyết",
+          "avatar": "https://i.pinimg.com/564x/33/d9/21/33d9218e216096968626b0c36580dd7f.jpg"
+        },
+        {
+          "nim": "132019005",
+          "name": "Nguyễn Lan Chi",
+          "avatar": "https://i.pinimg.com/564x/05/29/0d/05290dde6f0aa59c975a77bc2ee6d6e0.jpg"
+        },
+        {
+          "nim": "132019002",
+          "name": "Achmad Julian",
+          "avatar": "https://i.pinimg.com/474x/36/18/c5/3618c544af9803004da77bf7847ce217.jpg"
+        }
+      ],
+      "emoji": ""
+    },
+    {
+      "id": "STUDIKASUS-002",
+      "title": "Mengembangkan Sistem Informasi Perpustakaan dengan Python dan Django",
+      "subject": "Pemrograman I",
+      "name": "Kelompok 2",
+      "totalMember": 5,
+      "emoji": ""
+    },
+    {
+      "id": "STUDIKASUS-003",
+      "title": "Membuat Aplikasi Mobile Android dengan Java dan Kotlin",
+      "subject": "Pemrograman I",
+      "name": "Kelompok 3",
+      "totalMember": 3,
+      "emoji": ""
+    },
+    {
+      "id": "STUDIKASUS-004",
+      "title": "Menganalisis Data dengan Python dan Visualisasi",
+      "subject": "Pemrograman I",
+      "name": "Kelompok 4",
+      "totalMember": 6,
+      "emoji": ""
+    },
+    {
+      "id": "STUDIKASUS-005",
+      "title": "Membangun Sistem Rekomendasi Produk dengan Machine Learning",
+      "subject": "Pemrograman I",
+      "name": "Kelompok 5",
+      "totalMember": 4,
+      "emoji": ""
+    }
+]  

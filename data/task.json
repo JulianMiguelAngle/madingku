@@ -1,0 +1,58 @@
+[
+    {
+      "id": "a123b456c789d0e1f2g3h4i5j6k7l8m9",
+      "title": "Analisis Algoritma Sorting",
+      "category": "Pemrograman",
+      "subject": "CMP101 - Introduction to Programming",
+      "deadline": "19 Juni 2024",
+      "emoji": "⭐"
+    },
+    {
+      "id": "n0p1q2r3s4t5u6v7w8x9y0z1a2b3c4d5e6",
+      "title": "Uji Hipotesis Statistik",
+      "category": "Statistika",
+      "subject": "MAT102 - Calculus I",
+      "deadline": "24 Juni 2024",
+      "emoji": "💀"
+    },
+    {
+      "id": "f7g8h9i10j11k12l13m14n15o16p17q18r19",
+      "title": "Klasifikasi Organisme Hidup",
+      "category": "Biologi",
+      "subject": "BIO103 - General Biology",
+      "deadline": "27 Juni 2024",
+      "emoji": "🧠"
+    },
+    {
+      "id": "s2t3u4v5w6x7y8z9a0b1c2d3e4f5g6h7i8j9",
+      "title": "Analisis Permintaan dan Penawaran",
+      "category": "Ekonomi",
+      "subject": "ECO104 - Introduction to Economics",
+      "deadline": "30 Juni 2024",
+      "emoji": "😀"
+    },
+    {
+      "id": "k0l1m2n3o4p5q6r7s8t9u0v1w2x3y4z5a6b7",
+      "title": "Revolusi Industri dan Dampaknya",
+      "category": "Sejarah",
+      "subject": "HIS105 - World History",
+      "deadline": "3 Juli 2024",
+      "emoji": "☕"
+    },
+    {
+      "id": "d6e7f8g9h10i11j12k13l14m15n16o17p18q19",
+      "title": "Teori Belajar dan Motivasi",
+      "category": "Psikologi",
+      "subject": "PSY106 - Introduction to Psychology",
+      "deadline": "6 Juli 2024",
+      "emoji": "📖"
+    },
+    {
+      "id": "c5d6e7f8g9h10i11j12k13l14m15n16o17p18q19",
+      "title": "Laporan Penggunaan Kata Baku Bahasa Indonesia",
+      "category": "Bahasa",
+      "subject": "BAH107 - Indonesian Language",
+      "deadline": "10 Juli 2024",
+      "emoji": "🇮🇩 "
+    }
+]

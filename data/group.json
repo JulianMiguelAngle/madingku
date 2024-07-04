@@ -1,0 +1,57 @@
+[
+    {
+      "id": "1",
+      "title": "Membuat Website Sederhana dengan HTML dan CSS",
+      "subject": "Pemrograman Web",
+      "name": "Kelompok 1",
+      "totalMember": 4,
+      "emoji": ""
+    },
+    {
+      "id": "2",
+      "title": "Menganalisis Data dengan Python",
+      "subject": "Ilmu Data",
+      "name": "Kelompok 2",
+      "totalMember": 3,
+      "emoji": ""
+    },
+    {
+      "id": "3", "title": "Mendesain Poster Presentasi",
+      "subject": "Desain Grafis",
+      "name": "Kelompok 3",
+      "totalMember": 5,
+      "emoji": ""
+    },
+    {
+      "id": "4",
+      "title": "Menulis Laporan Penelitian",
+      "subject": "Metodologi Penelitian",
+      "name": "Kelompok 4",
+      "totalMember": 2,
+      "emoji": ""
+    },
+    {
+      "id": "5",
+      "title": "Membuat Presentasi PowerPoint",
+      "subject": "Komunikasi Bisnis",
+      "name": "Kelompok 5",
+      "totalMember": 4,
+      "emoji": ""
+    },
+    {
+      "id": "6",
+      "title": "Menulis Cerpen",
+      "subject": "Bahasa Indonesia",
+      "name": "Kelompok 6",
+      "totalMember": 3,
+      "emoji": "✍️"
+    },
+    {
+      "id": "7",
+      "title": "Menganalisis Puisi",
+      "subject": "Sastra Indonesia",
+      "name": "Kelompok 7",
+      "totalMember": 5,
+      "emoji": ""
+    }
+]  
