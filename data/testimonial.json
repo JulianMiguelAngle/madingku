@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Zahra",
+        "photo": "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Avatar/Zahra.avif?updatedAt=1719897641832",
+        "color": "#4017DB",
+        "role": "Sekertaris 04TPLP023",
+        "testimonial": "Madingku membantu saya mengatur tugas dan tanggung jawab saya dengan lebih efektif. Saya dapat membuat daftar tugas, menetapkan deadline, dan melacak kemajuan saya."
+    },
+    {
+        "id": 2,
+        "name": "Julian",
+        "photo": "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Avatar/Julian.avif?updatedAt=1719897641785",
+        "color": "#D41F80",
+        "role": "Sekertaris 04TPLP026",
+        "testimonial": "Madingku adalah alat yang sangat berharga bagi semua sekretaris kelas. Ini membantu saya menghemat waktu, meningkatkan efisiensi, dan membuat pekerjaan saya lebih mudah."
+    },
+    {
+        "id": 3,
+        "name": "Gilang",
+        "photo": "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Avatar/Julian.avif?updatedAt=1719897641785",
+        "color": "#9110B1",
+        "role": "Ketua kelas 04TPLP023",
+        "testimonial": "Berkat adanya Madingku semua orang tetap terhubung dan dipastikan semua orang mengetahui apa yang terjadi di kelas."
+    },
+    {
+        "id": 4,
+        "name": "Celia",
+        "photo": "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Avatar/Julian.avif?updatedAt=1719897641785",
+        "color": "#193FE6",
+        "role": "Sekertaris 04TPLP026",
+        "testimonial": "Madingku adalah alat yang sangat berharga bagi semua sekretaris kelas. Ini membantu saya menghemat waktu, meningkatkan efisiensi, dan membuat pekerjaan saya lebih mudah."
+    }
+]

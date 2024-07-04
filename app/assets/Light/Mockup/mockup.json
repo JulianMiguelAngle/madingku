@@ -1,0 +1,64 @@
+{
+    "manageClass": [
+        {
+            "name": ["class citizen mobile", "class citizen tablet"],
+            "url": [
+                "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Mockup%20Light/Mobile/Citizen%20list.avif?updatedAt=1719881472993",
+                "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Mockup%20Light/Tablet/Citizen%20list.avif?updatedAt=1719881472993"
+            ]
+        },
+        {
+            "name": ["lecture list mobile", "lecture list tablet"],
+            "url": [
+                "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Mockup%20Light/Mobile/Lectur%20list.avif?updatedAt=1719881472841",
+                "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Mockup%20Light/Tablet/Lectur%20list.avif?updatedAt=1719881472841"
+            ]
+        },
+        {
+            "name": ["subject list mobile", "subject list tablet"],
+            "url": [
+                "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Mockup%20Light/Mobile/Subject%20list.avif?updatedAt=1719881472941",
+                "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Mockup%20Light/Tablet/Subject%20list.avif?updatedAt=1719881472941"
+            ]
+        }
+    ],
+    "manageTask": [
+        {
+            "name": ["task list mobile", "task list tablet"],
+            "url": [
+                "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Mockup%20Light/Mobile/Task.avif?updatedAt=1719881472982",
+                "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Mockup%20Light/Tablet/Task.avif?updatedAt=1719881472982"
+            ]
+        },
+        {
+            "name": ["create task mobile", "create task tablet"],
+            "url": [
+                "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Mockup%20Light/Mobile/Create%20task.avif?updatedAt=1719881472986",
+                "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Mockup%20Light/Tablet/Create%20task.avif?updatedAt=1719881472986"
+            ]
+        },
+        {
+            "name": ["edit task mobile", "edit task tablet"],
+            "url": [
+                "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Mockup%20Light/Mobile/Edit%20task.avif?updatedAt=1719881472959",
+                "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Mockup%20Light/Tablet/Edit%20task.avif?updatedAt=1719881472959"
+            ]
+        }
+    ],
+    "manageGroup": [
+        {
+            "name": ["task list mobile", "task list tablet"],
+            "url": [
+                "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Mockup%20Light/Mobile/Subject.avif?updatedAt=1719881473024",
+                "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Mockup%20Light/Tablet/Subject.avif?updatedAt=1719881473024"
+            ]
+        },
+        {
+            "name": ["create task mobile", "create task tablet"],
+            "url": [
+                "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Mockup%20Light/Mobile/Create%20group.avif?updatedAt=1719881594716",
+                "https://ik.imagekit.io/Jul1an/Madingku%20Assets/Mockup%20Light/Tablet/Create%20group.avif?updatedAt=1719881594716"
+            ]
+        }
+    ]
+}

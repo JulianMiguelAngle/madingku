@@ -1,0 +1,94 @@
+.btn {
+    @apply py-2.5 w-fit min-w-[100px] border-[1.5px] border-solid rounded-xl cursor-pointer text-body-small sm:text-body-medium font-medium;
+    @apply flex items-center justify-center gap-x-3;
+}
+
+/* size */
+.btn-small {
+    @apply px-4 h-[40px];
+}
+
+.btn-medium {
+    @apply px-[18px] h-[45px];
+}
+
+.btn-large {
+    @apply px-6 h-[50px] min-w-[120px];
+}
+
+/* behavior */
+.btn-hug-content {
+    @apply w-fit;
+}
+
+.btn-fill-container {
+    @apply w-full;
+}
+
+/* variant */
+/* primary */
+.btn-primary-active-light, .btn-primary-active-dark {
+    @apply bg-fiera-400  border-fiera-200 text-neutral-0 hover:bg-fiera-300 hover:border-fiera-100 active:bg-fiera-400;
+}
+
+.btn-primary-disabled-light {
+    @apply bg-neutral-0 border-neutral-300 text-neutral-300 cursor-default;
+}
+
+.btn-primary-disabled-dark {
+    @apply bg-neutral-700 border-neutral-600 text-neutral-500 cursor-default;
+}
+
+
+/* secondary */
+.btn-secondary-active-light {
+    @apply bg-neutral-0  border-neutral-100 text-neutral-700 hover:bg-neutral-100 hover:border-neutral-200 active:bg-neutral-200;
+}
+
+.btn-secondary-active-dark {
+    @apply bg-neutral-600 border-neutral-500 text-neutral-100 hover:bg-neutral-500 hover:border-neutral-600 active:bg-neutral-600 active:border-neutral-500;
+}
+
+.btn-secondary-disabled-light {
+    @apply bg-neutral-100  border-neutral-100 text-neutral-300 cursor-default;
+}
+
+.btn-secondary-disabled-dark {
+    @apply border-neutral-600 text-neutral-400 cursor-default;
+}
+
+
+/* tertiary */
+.btn-tertiary-active-light {
+    @apply bg-neutral-0 border-0 text-fiera-400 hover:text-fiera-300  active:text-fiera-400;
+}
+
+.btn-tertiary-active-dark {
+    @apply bg-neutral-700 border-0 text-fiera-100 hover:text-fiera-200  active:text-fiera-100;
+}
+
+.btn-tertiary-disabled-light {
+    @apply bg-neutral-0 border-0  text-neutral-300 cursor-default;
+}
+
+.btn-tertiary-disabled-dark {
+    @apply bg-neutral-700 border-0 text-neutral-500 cursor-default;
+}
+
+
+/* destructive */
+.btn-destructive-active-light {
+    @apply bg-neutral-0 border-0 text-additional-error hover:text-additional-error  active:text-additional-error;
+}
+
+.btn-destructive-active-dark {
+    @apply bg-neutral-700 border-0 text-additional-error hover:text-additional-error  active:text-additional-error;
+}
+
+.btn-destructive-disabled-light {
+    @apply bg-neutral-0 border-0  text-neutral-300 cursor-default;
+}
+
+.btn-destructive-disabled-dark {
+    @apply bg-neutral-700 border-0 text-neutral-500 cursor-default;
+}
