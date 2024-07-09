@@ -27,9 +27,9 @@ export function Footer() {
 
                         <nav className="flex flex-col gap-y-3 text-neutral-500">
                             <Link href={"/"}>Beranda</Link>
-                            <Link href={"/docs"}>Panduan</Link>
+                            <Link href={"https://madingku-docs.vercel.app/"}>Panduan</Link>
                             <Link href={"/pricing"}>Harga</Link>
-                            <Link href={"/about"}>Pusat bantuan</Link>
+                            <Link href={"mailto:dev.achmadjulian@gmail.com"}>Pusat bantuan</Link>
                         </nav>
                     </article>
 

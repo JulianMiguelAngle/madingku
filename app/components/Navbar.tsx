@@ -88,7 +88,7 @@ export function MainNavbar({
             <section className="max-sm:hidden text-body-medium flex items-center gap-x-6 text-neutral-500">
                 <Link href={"/"} className="hover:text-fiera-400">Beranda</Link>
                 <Link href={"/pricing"} className="hover:text-fiera-400">Harga</Link>
-                <Link href={"/docs"} className="hover:text-fiera-400">Dokumentasi</Link>
+                <Link href={"https://madingku-docs.vercel.app/"} className="hover:text-fiera-400">Dokumentasi</Link>
 
                 <Button
                     variant="primary"

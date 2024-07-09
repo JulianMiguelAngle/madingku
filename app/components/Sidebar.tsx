@@ -48,7 +48,8 @@ export function MainSidebar({
             <section className="text-body-small flex flex-col gap-y-12 text-neutral-500">
                 <Link href={"/"} className="hover:text-fiera-400">Beranda</Link>
                 <Link href={"/pricing"} className="hover:text-fiera-400">Harga</Link>
-                <Link href={"/docs"} className="hover:text-fiera-400">Dokumentasi</Link>
+                <Link href={"https://madingku-docs.vercel.app/"} className="hover:text-fiera-400">Dokumentasi</Link>
+                <Link href={"mailto:dev.achmadjulian@gmail.com"}>Pusat bantuan</Link>
 
                 <Button
                     variant="primary"
